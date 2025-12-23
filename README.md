@@ -2,6 +2,11 @@
 
 i am developer alan
 
+i like:
+- dsa
+- cybersec
+- ai
+  
 i use:
 - Python
 - C++
